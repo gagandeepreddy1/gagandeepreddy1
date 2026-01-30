@@ -28,8 +28,6 @@ Currently, I am focused on integrating **Generative AI and ML workflows** into r
 ---
 
 ### 📫 Connect with Me
-
-* **Email:** [Gagandeepreddyr123@gmail.com](mailto:Gagandeepreddyr123@gmail.com)
 * **LinkedIn:** [linkedin.com/in/gagan-deep-reddy-reddivari-7aa8203a7](https://www.linkedin.com/in/gagan-deep-reddy-reddivari-7aa8203a7/)
 * **Medium:** [medium.com/@gagandeepreddy1408](https://medium.com/@gagandeepreddy1408)
 
