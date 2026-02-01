@@ -1,33 +1,35 @@
 # Hi there, I'm Gagan Deep Reddy Reddivari 👋
 
-### Senior Full Stack Developer | Java & Cloud Architect | AI Enthusiast
+### Senior Full Stack Developer | Java, Go & Cloud Architect | AI Enthusiast
 
-I am an accomplished Software Developer with over **7 years of hands-on experience** designing high-performance enterprise solutions. I specialize in building scalable backend architectures using **Java Spring Boot** and creating responsive frontends with **React**.
+I am an accomplished Senior Full Stack Developer with over **7 years of hands-on experience** designing high-performance enterprise solutions. I specialize in building resilient microservices using **Java Spring Boot & Golang** and creating responsive frontends with **React 18**.
 
-Currently, I am focused on integrating **Generative AI and ML workflows** into real-world business applications.
+Currently, I am focused on architecting cloud-native systems on **AWS/GCP** and integrating **Generative AI workflows** into real-world business applications.
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Java, Golang (Go), JavaScript (ES6+), TypeScript, SQL, Python.
-* **Backend:** Spring Boot, Spring MVC, Hibernate, RESTful Web Services, Microservices.
-* **Frontend:** React.js (Hooks, Redux, React Query), Angular, HTML5, CSS3.
-* **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Azure, Docker, Kubernetes, Jenkins, Terraform.
-* **Data & AI:** PostgreSQL, MongoDB, DynamoDB, Redis, Vector Databases (Pinecone, Weaviate), LangChain.
+* **Languages:** Java (Spring Boot), Golang (Gin/Echo), TypeScript, Python, SQL.
+* **Frontend:** React 18 (Hooks, Redux, React Query), Angular, HTML5, CSS3.
+* **AI & LLM:** LangChain, AWS Bedrock, GenAI Integration, Vector DBs (Pinecone, FAISS, Weaviate).
+* **Cloud & DevOps:** AWS (Lambda, RDS), GCP (Pub/Sub), Azure, Docker, Kubernetes, Terraform, Jenkins.
+* **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis.
 
 ---
 
 ### 🚀 What I Do
 
-* **System Architecture:** Designing resilient microservices and secure REST APIs (JWT/OAuth2).
-* **Cloud Native Development:** Deploying serverless solutions (Lambda, Cloud Functions) and managing hybrid cloud storage.
-* **AI Integration:** Implementing LLM/GenAI workflows to automate business processes and enhance user experiences.
-* **Performance Optimization:** Refactoring legacy codebases and optimizing database queries for sub-second response times.
+* **System Design:** Architecting decoupled microservices and event-driven systems (Kafka/PubSub) for high concurrency.
+* **AI Integration:** Implementing LLM agents and hybrid search retrieval (RAG) using LangChain and Vector Databases.
+* **Performance Engineering:** Optimizing Golang worker pools and database queries to handle 2,000+ requests/hour with sub-second latency.
+* **DevOps Automation:** Building CI/CD pipelines with Jenkins and GitHub Actions to reduce deployment times by ~60%.
 
 ---
 
 ### 📫 Connect with Me
+
+* **Email:** [Gagandeepreddyr123@gmail.com](mailto:Gagandeepreddyr123@gmail.com)
 * **LinkedIn:** [linkedin.com/in/gagan-deep-reddy-reddivari-7aa8203a7](https://www.linkedin.com/in/gagan-deep-reddy-reddivari-7aa8203a7/)
 * **Medium:** [medium.com/@gagandeepreddy1408](https://medium.com/@gagandeepreddy1408)
 
