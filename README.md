@@ -2,7 +2,7 @@
 
 ### Senior Full Stack Developer | Java, Go & Cloud Architect | AI Enthusiast
 
-I am an accomplished Senior Full Stack Developer with over **7 years of hands-on experience** designing high-performance enterprise solutions. I specialize in building resilient microservices using **Java Spring Boot & Golang** and creating responsive frontends with **React 18**.
+I am an accomplished Senior Full Stack Developer with over **8 years of hands-on experience** designing high-performance enterprise solutions. I specialize in building resilient microservices using **Java Spring Boot & Golang** and creating responsive frontends with **React 18**.
 
 Currently, I am focused on architecting cloud-native systems on **AWS/GCP** and integrating **Generative AI workflows** into real-world business applications.
 
